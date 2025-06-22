@@ -25,6 +25,11 @@ It automates tasks such as exam registration, hall ticket generation, seating an
 
 ---
 
+## Screenshots
+<img src="Screenshot 2025-03-05 132613.png" width="500"><img src="Screenshot 2025-03-05 132903.png" width="500">
+<img src="Screenshot 2025-03-05 132445.png" width="500"><img src="Screenshot 2025-03-05 132831.png" width="500">
+
+---
 ## 🙌 Acknowledgements
 
 This project was developed to modernize traditional exam processes and offer a scalable, digital solution for educational institutions.
