@@ -26,8 +26,8 @@ It automates tasks such as exam registration, hall ticket generation, seating an
 ---
 
 ## Screenshots
-<img src="Screenshot 2025-03-05 132613.png" width="500"><img src="Screenshot 2025-03-05 132903.png" width="500">
-<img src="Screenshot 2025-03-05 132445.png" width="500"><img src="Screenshot 2025-03-05 132831.png" width="500">
+<img src="/images/Screenshot 2025-04-04 075346.png" width="500"><img src="/images/Screenshot 2025-04-04 075415.png" width="500">
+<img src="/images/Screenshot 2025-04-04 075454.png" width="500"><img src="/images/Screenshot 2025-04-04 081948.png" width="500">
 
 ---
 ## 🙌 Acknowledgements
